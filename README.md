@@ -53,8 +53,8 @@ Alternative link: [View on Google Drive](https://drive.google.com/file/d/1_ru-nD
 
 ### Prerequisites
 
-- Flutter SDK (3.0.0 or higher)
-- Dart SDK (3.0.0 or higher)
+- Flutter SDK (3.27.0)
+- Dart SDK (3.6.0)
 
 ### Installation
 
@@ -177,7 +177,7 @@ The app has been tested for:
 
 This project was developed as a technical assessment for the Flutter Developer position at PT Timedoor Indonesia.
 
-**Submission Date**: January 2025
+**Submission Date**: January 2026
 
 ---
 
